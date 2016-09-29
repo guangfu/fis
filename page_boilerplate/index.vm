@@ -1,0 +1,12 @@
+<head>
+	<title>模板文件</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+  <link rel="stylesheet" href="static/css/pages/{filename}.css">
+</head>
+<body>
+	<div class="container">
+		
+  </div>
+  <script src="static/js/bundle/{filename}.js"></script>
+</body>

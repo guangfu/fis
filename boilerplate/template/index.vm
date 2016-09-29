@@ -1,0 +1,12 @@
+<head>
+	<title>模板文件</title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+  <link rel="stylesheet" href="static/css/pages/index.css">
+</head>
+<body>
+	<div class="container">
+		<h1 style="text-align: center; font-size: 1rem; margin-top: 0.5rem;">kn</h1>
+  </div>
+  <script src="static/js/bundle/index.js"></script>
+</body>
